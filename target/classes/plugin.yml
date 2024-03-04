@@ -1,0 +1,4 @@
+name: RandomItems
+version: '1.0-SNAPSHOT'
+main: lol.yakut.randomitems.RandomItems
+api-version: '1.20'

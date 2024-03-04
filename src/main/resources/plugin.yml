@@ -1,0 +1,5 @@
+name: RandomItems
+version: '${project.version}'
+main: lol.yakut.randomitems.RandomItems
+api-version: '1.20'
+author: yakut
